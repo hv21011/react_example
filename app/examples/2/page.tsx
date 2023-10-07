@@ -83,7 +83,7 @@ const Example2 = () => {
         users.map(
           (user, index) => {
             return (
-             UserCard(user)
+              UserCard(user)
             )
           }
         )
