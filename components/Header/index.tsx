@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import Rutas from '@/app/utils/constants'
+import Rutas from '@/utils/'
 
 const Header = () => {
   return (
